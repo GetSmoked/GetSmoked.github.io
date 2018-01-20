@@ -1,0 +1,146 @@
+@font-face {
+    
+    font-family:kenyan coffee rgimport;
+    src:url('kenyan coffee rg.ttf');
+    
+}
+@font-face {
+    
+    font-family:kenyan coffee rg itimport;
+    src:url('kenyan coffee rg it.ttf');
+    
+    
+    font-family:xdimport;
+    src:url('xd.ttf');
+    
+    
+}
+@font-face {
+    
+    font-family:HACKED123import;
+    src:url('HACKED.ttf');
+    
+    
+}
+
+header {
+    
+    text-align: center;
+    font-family: HACKED123import;
+    font-size: 70px;
+    color: #ffffff;
+    text-shadow: -2px 0 #000000,0 2px #000000,2px 0 #000000,0 -2px #000000;
+}
+h1 {
+    
+    text-align: center;
+    font-family: xdimport;
+    font-size: 60px;
+    color: #ffffff;
+    text-shadow: -2px 0 #000000,0 2px #000000,2px 0 #000000,0 -2px #000000;
+}
+p {
+    
+    text-align: center;
+    font-family: kenyan coffee rg itimport;
+    font-size: 60px;
+    color: #ffffff;
+    text-shadow: -2px 0 #000000,0 2px #000000,2px 0 #000000,0 -2px #000000;
+}
+.k {
+    
+    color: #ffffff;
+    text-shadow: -2px 0 #000000,0 2px #000000,2px 0 #000000,0 -2px #000000;
+    
+}
+.g {
+    
+    background-color: #000000;
+    text-shadow: -2px 0 #000000,0 2px #000000,2px 0 #000000,0 -2px #000000;
+    
+}
+
+body, html {
+    
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+
+    
+}
+
+video {
+    
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate( -50%, -50%);
+    min-height: 100%;
+    min-width: 100%;
+    z-index: -1;
+}
+
+h2 {
+    
+    text-align: center;
+    font-family: HACKED123import;
+    font-size: 80px;
+    color: #ffffff;
+    text-shadow: -3px 0 black, 0 3px black, 3px 0 black, 0 -3px black;
+    
+
+}
+h3 {
+    
+    text-align: center;
+    font-family: HACKED123import;
+    font-size: 30px;
+    color: #ffffff;
+    text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+
+
+    
+
+}
+
+
+.topFixedBar
+{
+    position: fixed;
+    width: 100%;
+    background: #373738;
+    height: 50px;
+}
+
+.topFixedBar2
+{
+
+    width: 100%;
+    background: #373738;
+    height: 50px;
+}
+
+Back {
+    
+    color: #474747;
+}
+
+ul {
+    
+    display: inline;
+    float: left;
+}
+li {
+    
+    display: inline;
+    font-size: 20px;
+    color: #ffffff;
+    font-family: HACKED123import;
+}
+img {
+    text-align: center;
+    border-width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
